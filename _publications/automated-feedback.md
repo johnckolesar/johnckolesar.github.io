@@ -11,4 +11,4 @@ venue: 'ASE'
 ---
 This paper presents Clef, an automated feedback generator designed to handle submissions for competition-level programming problems.
 
-[Download paper here](https://ui.adsabs.harvard.edu/abs/2022arXiv220601848Z/abstract)
+[Download paper here](https://dl.acm.org/doi/10.1145/3551349.3560425)
