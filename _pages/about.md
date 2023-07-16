@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year computer science Ph.D. student at Yale University advised by Professor Ruzica Piskac.  My research interests include automatic program verification, symbolic execution, automatic program repair, and software-defined networking.
+I am a computer science Ph.D. candidate at Yale University advised by Professor Ruzica Piskac.  I am in my fourth year of graduate school.  My research interests include automatic program verification, symbolic execution, automatic program repair, and software-defined networking.
 
 In 2020 I received a B.A. from Cornell University, where I majored in both mathematics and classics.  I did computer science research under Professor Nate Foster while at Cornell.  I received an M.S. en route to the Ph.D. from Yale in 2022.
 
