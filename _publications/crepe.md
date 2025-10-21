@@ -10,4 +10,4 @@ venue: 'OOPSLA'
 ---
 This paper presents Crepe, a zero-knowledge protocol for validating regular expression equivalence proofs.
 
-[Download paper here](https://arxiv.org/pdf/2504.01198)
+[Download paper here](https://dl.acm.org/doi/10.1145/3763063)
